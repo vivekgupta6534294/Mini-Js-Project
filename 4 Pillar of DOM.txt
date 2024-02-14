@@ -1,0 +1,4 @@
+1 : Selection of an Element 
+2 : Changing HTML of an Element 
+3 : Changing CSS of an Element
+4 : Event Listener
